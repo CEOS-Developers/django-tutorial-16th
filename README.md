@@ -4,4 +4,5 @@
 
 ### !WONDER!
 #### Date : 22.09.21
-*  workspace.xml 파일도 .gitignore에 추가하는 것이 좋을까,,,? 어떤 역할을 하는지 잘 모르겠음
+* workspace.xml 파일도 .gitignore에 추가하는 것이 좋을까,,,? 어떤 역할을 하는지 잘 모르겠음
+* commit message 작성 시 적절한 단어 찾기가 어려움,,, 특히 revise, modify, edit, update 중 뭐가 더 적절한 지는 아직도 고민중 
