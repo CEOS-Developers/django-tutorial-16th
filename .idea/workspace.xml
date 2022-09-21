@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9881146-8ae6-4470-ba01-de5f4673d9fc" name="Changes" comment="[init] startproject&amp;app">
-      <change afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
+    <list default="true" id="b9881146-8ae6-4470-ba01-de5f4673d9fc" name="Changes" comment="[add] Update polls app&#10;&#10;view와 url 매칭">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <updated>1663755932777</updated>
       <workItem from="1663755936480" duration="1525000" />
       <workItem from="1663757504792" duration="657000" />
-      <workItem from="1663762367266" duration="1222000" />
+      <workItem from="1663762367266" duration="2502000" />
     </task>
     <task id="LOCAL-00001" summary="[init] startproject&amp;app">
       <created>1663763193339</created>
@@ -55,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663763193339</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[add] Update polls app&#10;&#10;view와 url 매칭">
+      <created>1663763794471</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663763794471</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[init] startproject&amp;app" />
-    <option name="LAST_COMMIT_MESSAGE" value="[init] startproject&amp;app" />
+    <MESSAGE value="[add] Update polls app&#10;&#10;view와 url 매칭" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] Update polls app&#10;&#10;view와 url 매칭" />
   </component>
 </project>
