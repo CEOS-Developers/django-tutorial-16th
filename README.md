@@ -18,14 +18,12 @@
 
 ## Part1
 프로젝트 만들기
-
-  $ django-admin startproject 디렉토리 이름
+<pre><code>{$ django-admin startproject 디렉토리 이름}</code></pre>
   
 서버 작동
+<pre><code>{$ python manage.py runserver}</code></pre>
 
-  $ python manage.py runserver
-
-
+ 
 
 ## Part2
 
