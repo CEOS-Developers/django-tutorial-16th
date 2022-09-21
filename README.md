@@ -43,7 +43,8 @@ Quit the server with CONTROL-C.
 ### 앱 만들기
 <pre><code>$ python manage.py startapp 앱 이름</code></pre>
 
-> #### 1. 뷰 작성 
+
+#### 1. 뷰 작성 
 
  
 
