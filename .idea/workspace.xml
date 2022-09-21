@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9881146-8ae6-4470-ba01-de5f4673d9fc" name="Changes" comment="[add] create and connect template">
-      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" afterDir="false" />
+    <list default="true" id="b9881146-8ae6-4470-ba01-de5f4673d9fc" name="Changes" comment="[add] detail page&#10;&#10;create detail page template and modify detail view and url">
+      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
     </list>
@@ -48,7 +48,7 @@
       <updated>1663755932777</updated>
       <workItem from="1663755936480" duration="1525000" />
       <workItem from="1663757504792" duration="657000" />
-      <workItem from="1663762367266" duration="5850000" />
+      <workItem from="1663762367266" duration="8251000" />
     </task>
     <task id="LOCAL-00001" summary="[init] startproject&amp;app">
       <created>1663763193339</created>
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663774891644</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[add] detail page&#10;&#10;create detail page template and modify detail view and url">
+      <created>1663776020103</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663776020103</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +143,7 @@
     <MESSAGE value="[feat] Setting admin page" />
     <MESSAGE value="[add] add polls page" />
     <MESSAGE value="[add] create and connect template" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] create and connect template" />
+    <MESSAGE value="[add] detail page&#10;&#10;create detail page template and modify detail view and url" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] detail page&#10;&#10;create detail page template and modify detail view and url" />
   </component>
 </project>
