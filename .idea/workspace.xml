@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9881146-8ae6-4470-ba01-de5f4673d9fc" name="Changes" comment="[add] model 수정">
-      <change beforePath="$PROJECT_DIR$/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/admin.py" afterDir="false" />
+    <list default="true" id="b9881146-8ae6-4470-ba01-de5f4673d9fc" name="Changes" comment="[feat] Setting admin page">
+      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +47,7 @@
       <updated>1663755932777</updated>
       <workItem from="1663755936480" duration="1525000" />
       <workItem from="1663757504792" duration="657000" />
-      <workItem from="1663762367266" duration="3532000" />
+      <workItem from="1663762367266" duration="4527000" />
     </task>
     <task id="LOCAL-00001" summary="[init] startproject&amp;app">
       <created>1663763193339</created>
@@ -74,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663773291418</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[feat] Setting admin page">
+      <created>1663773615842</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663773615842</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +118,7 @@
     <MESSAGE value="[add] Update polls app&#10;&#10;view와 url 매칭" />
     <MESSAGE value="[add] model 생성 및 DB 설정&#10;&#10;view와 url 매칭" />
     <MESSAGE value="[add] model 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] model 수정" />
+    <MESSAGE value="[feat] Setting admin page" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat] Setting admin page" />
   </component>
 </project>
