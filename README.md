@@ -17,6 +17,15 @@
 - 2022년 9월 24일 토요일  
 
 ## Part1
+프로젝트 만들기
+
+  $ django-admin startproject 디렉토리 이름
+  
+서버 작동
+
+  $ python manage.py runserver
+
+
 
 ## Part2
 
