@@ -22,7 +22,7 @@
   
 - 서버 작동
 <pre><code>{$ python manage.py runserver}</code></pre>
-* 서버 작동시 커맨드라인 출력 내용
+  * 서버 작동시 커맨드라인 출력 내용
 <pre><code>
 {Performing system checks...
 
