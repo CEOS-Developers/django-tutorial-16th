@@ -34,7 +34,8 @@ Run 'python manage.py migrate' to apply them.
 8월 03, 2020 - 15:50:53
 Django version 3.0, using settings 'mysite.settings'
 Starting development server at http://127.0.0.1:8000/
-Quit the server with CONTROL-C.}
+Quit the server with CONTROL-C.
+// default : 8000}
 </code></pre>
 
  
