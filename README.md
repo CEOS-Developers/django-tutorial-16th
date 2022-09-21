@@ -36,6 +36,14 @@ Django version 3.0, using settings 'mysite.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 </code></pre>
+- 포트 변경하기
+서버의 포트를 변경하고 싶다면, 커맨드라인에서 인수를 전달해줍니다.
+<pre><code>$ python manage.py runserver 8080</code></pre>
+
+### 앱 만들기
+<pre><code>$ python manage.py startapp 앱 이름</code></pre>
+
+#### 뷰 
 
  
 
