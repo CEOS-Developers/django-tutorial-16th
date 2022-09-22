@@ -1,17 +1,14 @@
 # 1주차 미션: Django 튜토리얼
 
-## 스터디 자료
-[1주차 : Django와 개발 환경 설정](https://yourzinc.notion.site/1-Django-95b587b18097471c9a07e7cb8b2c598b)
+## 🚀 feature
+### 1. 
+### 2. 
+### 3. 
 
-## 미션
-- [Writing your first Django app](https://docs.djangoproject.com/ko/3.0/intro/tutorial01/)의 Part 1~4 따라합니다.
-- 코딩의 단위를 기능별로 나누어 Commit 메세지를 작성합니다.
-- 새롭게 알게 된 것을 정리합니다.
+## 🔨 Refactor
+### 📌 'Django Secret Key exposed on GitHub' 문제
+원인 : SECRET_KEY를 깃헙에 푸쉬한다면 위 문제가 발생함</br>
+해결 방법 : SECRET_KEY를 json 파일로 분리한 후, 이 값을 json 파일로부터 읽어서 사용한다면 문제 해결 가능
 
-## 목표
 
-- Django 의 MTV 패턴을 이해합니다.
 
-## 기한
-
-- 2022년 9월 24일 토요일  
