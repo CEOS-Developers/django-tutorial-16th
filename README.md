@@ -1,17 +1,13 @@
-# 1주차 미션: Django 튜토리얼
+### !1주차 과제!
+#### Date : 22.09.22
 
-## 스터디 자료
-[1주차 : Django와 개발 환경 설정](https://yourzinc.notion.site/1-Django-95b587b18097471c9a07e7cb8b2c598b)
-
-## 미션
-- [Writing your first Django app](https://docs.djangoproject.com/ko/3.0/intro/tutorial01/)의 Part 1~4 따라합니다.
-- 코딩의 단위를 기능별로 나누어 Commit 메세지를 작성합니다.
-- 새롭게 알게 된 것을 정리합니다.
-
-## 목표
-
-- Django 의 MTV 패턴을 이해합니다.
-
-## 기한
-
-- 2022년 9월 24일 토요일  
+- 스프링과 달리 장고는 설정사항을 py파일로 한다는 점
+- settings.py 에서 모든 설정을 추가해줘야 한다는 점도 신기했음
+- INSTALLED_APPS 에서 생성한 앱을 명시해줘야 인식함 : 알아서 안된다니..
+- makemigration 해주고 migration 해야 디비 생성됨 run으로 한방에 안댐
+- runserver 로 실행할 수 있음
+- shell도 따로 있음 , 테스트 목적으로 쓰기 좋은듯 깔끔하지 않은게 단점
+- 어드민도 이런식으로 만들 수 있다니.. 깔끔함
+- 제네릭 뷰 란? 장고에서 기본적으로 제공하는 뷰 클래스
+  용도에 따라 ListView, DetailView, FormView, TemplateView 등이 있는데, 전부 View 클래스를 상속받고 있음
+- 굳이 하나씩 해주지 않아도 된다는 점이 신기함
