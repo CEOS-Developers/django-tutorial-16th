@@ -68,7 +68,7 @@ Quit the server with CONTROL-C.
 - URLconf 수정
   - 패턴 경로에서 일치하는 패턴들의 이름을 <pk>로 변경
 - views 수정
-  - 각 제네릭 뷰는 model 속성을 사용하여 어떤 모델이 적용할 것인지  
+  - 각 제네릭 뷰는 model 속성을 사용하여 어떤 모델이 적용할 것인지 파악
   - ListView : 개체 목록 표시
   - DetailView : 특정 개체 유형에 대한 세부 정보 페이지 표시
 
