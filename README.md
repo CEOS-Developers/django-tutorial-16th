@@ -43,8 +43,6 @@ Quit the server with CONTROL-C.
   - URL에 이름을 부여하여 명확하게 참조 
  
 
-## Part2
-
-## Part3
-
-## Part4
+## 📚 Model
+- 부가적인 메타데이터를 가진 데이터베이스의 구조(layout)
+### migration
