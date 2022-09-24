@@ -1,8 +1,8 @@
 from django.shortcuts import render
 
-# Create your views here.
 from django.http import HttpResponse
-from django.template import loader
+from django.shortcuts import render
+# from django.template import loader
 
 from .models import Question
 
@@ -11,11 +11,16 @@ from .models import Question
 # context는 템플릿에서 쓰이는 변수명과 Python 객체를 연결
 def index(request):
     latest_question_list = Question.objects.order_by('-pub_date')[:5]
-    template = loader.get_template('polls/index.html')
-    context = {
-        'latest_question_list': latest_question_list,
-    }
-    return HttpResponse(template.render(context, request))
+
+    context = {'latest_question_list': latest_question_list}
+    return render(request, 'polls/index.html', context)
+
+    # legacy code (using template without render)
+    # template = loader.get_template('polls/index.html')
+    # context = {
+    #     'latest_question_list': latest_question_list,
+    # }
+    # return HttpResponse(template.render(context, request))
 
 
 def detail(request, question_id):
