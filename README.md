@@ -6,6 +6,7 @@
 ## 📚 프로젝트 생성
 <pre><code>$ django-admin startproject 디렉토리 이름</code></pre>
   
+  
 ## 📚 서버 작동
 <pre><code>$ python manage.py runserver</code></pre>
 - 서버 작동시 커맨드라인 출력 내용
@@ -25,6 +26,7 @@ Quit the server with CONTROL-C.
 - 포트 변경하기
 서버의 포트를 변경하고 싶다면, 커맨드라인에서 인수를 전달해줍니다.
 <pre><code>$ python manage.py runserver 8080</code></pre>
+
 
 ## 📚 앱 만들기
 <pre><code>$ python manage.py startapp 앱 이름</code></pre>
@@ -56,6 +58,7 @@ Quit the server with CONTROL-C.
 ## 📚 관리자 생성
 - http://127.0.0.1:8000/admin/ 으로 접근
 <pre><code>$ python manage.py createsuperuser</code></pre>
+
 
 ## 📚 View
 - HTTP 요청 수신, HTTP 응답 반환 함수
