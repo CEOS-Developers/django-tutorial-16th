@@ -45,4 +45,21 @@ Quit the server with CONTROL-C.
 
 ## 📚 Model
 - 부가적인 메타데이터를 가진 데이터베이스의 구조(layout)
-### migration
+### 📖 migration
+모델의 변경 내역을 DB 스키마에 적용시키는 장고의 방법
+- migration 생성
+<pre><code>python manage.py makemigrations 앱 이름</code></pre>
+- migrate 실행
+<pre><code>python manage.py migrate</code></pre>
+
+
+## 📚 관리자 생성
+<pre><code>python manage.py createsuperuser</code></pre>
+<pre><code>Username: 어드민 유저 이름</code></pre>
+<pre><code>Email address: 어드민 유저 이메일</code></pre>
+<pre><code>
+Password: 비밀번호
+Password (again): 비밀번호
+Superuser created successfully.
+</code></pre>
+
