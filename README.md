@@ -48,14 +48,14 @@ Quit the server with CONTROL-C.
 ### 📖 migration
 모델의 변경 내역을 DB 스키마에 적용시키는 장고의 방법
 - migration 생성
-<pre><code>python manage.py makemigrations 앱 이름</code></pre>
+<pre><code>$ python manage.py makemigrations 앱 이름</code></pre>
 - migrate 실행
-<pre><code>python manage.py migrate</code></pre>
+<pre><code>$ python manage.py migrate</code></pre>
 
 
 ## 📚 관리자 생성
 - http://127.0.0.1:8000/admin/ 으로 접근
-<pre><code>python manage.py createsuperuser</code></pre>
+<pre><code>$ python manage.py createsuperuser</code></pre>
 
 ## 📚 View
 - HTTP 요청 수신, HTTP 응답 반환 함수
