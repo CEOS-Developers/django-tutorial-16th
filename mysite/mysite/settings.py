@@ -50,6 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+# 사용자가 페이지 요청 시에 해당 파이썬 모듈을 불러올 수 있도록 설정
 ROOT_URLCONF = 'mysite.urls'
 
 TEMPLATES = [
