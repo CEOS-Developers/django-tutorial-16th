@@ -54,12 +54,8 @@ Quit the server with CONTROL-C.
 
 
 ## 📚 관리자 생성
+- http://127.0.0.1:8000/admin/ 으로 접근
 <pre><code>python manage.py createsuperuser</code></pre>
-<pre><code>Username: 어드민 유저 이름</code></pre>
-<pre><code>Email address: 어드민 유저 이메일</code></pre>
-<pre><code>
-Password: 비밀번호
-Password (again): 비밀번호
-Superuser created successfully.
-</code></pre>
 
+## 📚 View
+- 
