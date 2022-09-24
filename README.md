@@ -58,4 +58,18 @@ Quit the server with CONTROL-C.
 <pre><code>python manage.py createsuperuser</code></pre>
 
 ## 📚 View
-- 
+- HTTP 요청 수신, HTTP 응답 반환 함수
+- Model을 통해 요청을 만족하는 데이터에 접근
+### 📖 View 동작
+- HttpResponse 객체 반환
+- 예외 발생(Http404 등)
+### 📖 Generic View
+장고에서 기본적으로 제공하는 뷰의 형태
+- URLconf 수정
+  - 패턴 경로에서 일치하는 패턴들의 이름을 <pk>로 변경
+- views 수정
+  - 각 제네릭 뷰는 model 속성을 사용하여 어떤 모델이 적용할 것인지  
+  - ListView : 개체 목록 표시
+  - DetailView : 특정 개체 유형에 대한 세부 정보 페이지 표시
+
+
