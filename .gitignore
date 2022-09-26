@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+
+.idea
+
 # Distribution / packaging
 .Python
 build/
@@ -102,14 +105,13 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+mysite/.env
 .venv
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
-
 # Spyder project settings
 .spyderproject
 .spyproject
