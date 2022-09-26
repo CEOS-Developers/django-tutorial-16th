@@ -15,3 +15,28 @@
 ## 기한
 
 - 2022년 9월 24일 토요일  
+
+***
+# 스터디 정리
+
+## Part 1
+Link: [Django tutorial part1](https://docs.djangoproject.com/ko/3.0/intro/tutorial01/)
+### Django
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
+[Django](https://www.djangoproject.com/)
+
+- 서버 실행 명령어
+    $ python manage.py runserver
+- include()
+
+
+## Part 2
+Link: [Django tutorial part2](https://docs.djangoproject.com/ko/3.0/intro/tutorial02/)
+
+
+## Part 3
+Link: [Django tutorial part3](https://docs.djangoproject.com/ko/4.1/intro/tutorial03/)
+
+
+## Part 4
+Link: [Django tutorial part4](https://docs.djangoproject.com/ko/4.1/intro/tutorial04/)
