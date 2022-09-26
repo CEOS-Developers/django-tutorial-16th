@@ -1,17 +1,8 @@
-# 1주차 미션: Django 튜토리얼
+### !NEW!
+#### Date : 22.09.21 
+* HttpResponseRedirect : 새로운 페이지로 redirect 할 일이 있을 때는 보통 사전에 정의한 status를 넘겨주면 프론트에서 새로운 요청을 다시 보내는 방식으로 구현했었는데 새로운 방식을 알게됨,,, 다만 궁금한 점 하나, 무조건 reverse와 같이 사용되어야 하는 것인가?
 
-## 스터디 자료
-[1주차 : Django와 개발 환경 설정](https://yourzinc.notion.site/1-Django-95b587b18097471c9a07e7cb8b2c598b)
-
-## 미션
-- [Writing your first Django app](https://docs.djangoproject.com/ko/3.0/intro/tutorial01/)의 Part 1~4 따라합니다.
-- 코딩의 단위를 기능별로 나누어 Commit 메세지를 작성합니다.
-- 새롭게 알게 된 것을 정리합니다.
-
-## 목표
-
-- Django 의 MTV 패턴을 이해합니다.
-
-## 기한
-
-- 2022년 9월 24일 토요일  
+### !WONDER!
+#### Date : 22.09.21
+* workspace.xml 파일도 .gitignore에 추가하는 것이 좋을까,,,? 어떤 역할을 하는지 잘 모르겠음
+* commit message 작성 시 적절한 단어 찾기가 어려움,,, 특히 revise, modify, edit, update 중 뭐가 더 적절한 지는 아직도 고민중 
